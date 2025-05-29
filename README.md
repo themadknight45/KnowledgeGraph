@@ -1,4 +1,4 @@
-# 🤖 Retrieval-Augmented Generation (RAG) AI for Codebase Understanding KnowledgeGraph
+# 🤖 Retrieval-Augmented Generation (RAG) AI for Codebase Understanding (KnowledgeGraph)
 
 In this project, I developed a RAG-based AI system that enables deep semantic understanding of large Python codebases by combining static code analysis with language modeling. The system parses source code using Python's Abstract Syntax Tree (AST) module to extract structured data and builds a Knowledge Graph that serves as the retrieval backbone for the generative model.
 
